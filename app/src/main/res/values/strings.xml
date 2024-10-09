@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Assignment IISC Submited by Pankaj Verma</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="This_is_a_Assignment">This is a Assignment</string>
+    <string name="Given_by_iccs">Given by ICCS for Internship </string>
+    <string name="Lets_start">Lets start</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="new_registered_yet_sign_in">New Registered Yet Sign In</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="Null">null</string>
+    <string name="enter_how_much_cookies_you_want">Enter How Much Cookies You Want</string>
+    <string name="enter_the_otp_n_we_send_in_your_email">Enter the OTP\n we send in your Email:</string>
+</resources>
